@@ -26,4 +26,5 @@ Designing and conducting surveys to gather feedback from movement participants a
 By systematically addressing these areas, the Atlas project seeks to foster a collaborative environment essential for the advancement of the Woman, Life, Freedom Movement.
 
 ## How to contribute
-1. [contact us](https://atlasiran.org/p/contact-us)
+1. [Contact us](https://atlasiran.org/p/contact-us)
+2. [Enhance the Database](https://github.com/Atlasiran/Atlas-website/issues/29)
